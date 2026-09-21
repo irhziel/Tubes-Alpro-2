@@ -33,7 +33,18 @@ Aplikasi <i>Futsal-Book</i> memiliki beberapa fitur yaitu menu utama, fitur peng
 #### 1. Kelola Data Lapangan & Penyewa
   - Tambah lapangan
   - Lihat Hapus/Ubah Lapangan
-  - Hapus/Ubah Lapangan
   - Tambah Penyewa
   - Lihat & Hapus/Ubah Penyewa
 #### 2. Catat Transaksi / Cek Ketersediaan Jam
+Catat Transaksi / Booking
+#### 3. Pencarian
+- Cari Berdasarkan Nama Tempat (<i>Sequential Search</i>)
+- Cari Berdasarkan Nomor Telepon (<i>Binary Search</i>)
+#### 4. Sorting
+- Urutkan Berdasarkan Jam Mulai (<i>Selection Sort</i>)
+- Urutkan Berdasarkan Harga Sewa (<i>Insertion Sort</i>)
+#### 5. Statistik
+Statistik Lapangan
+<br>
+<br>
+*Note: Aplikasi ini dibuat untuk memenuhi tugas besar (Tubes) mata kuliah Algoritma dan Pemrograman 2 (Alpro 2), sekaligus menjadi salah satu project dalam portofolio pribadi.*
